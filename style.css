@@ -379,6 +379,13 @@ nav button {
     font-size: 16px;
     font-style: normal;
 }
+.divider {
+    max-width: 1360px;
+  border: none;
+  height: 1px;
+  background-color: #dddddd27;
+  margin: 20px auto;
+}
 html {
     scroll-behavior: smooth;
 }
