@@ -376,7 +376,9 @@ nav button {
     font-size: 16px;
     font-style: normal;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 
 
     
